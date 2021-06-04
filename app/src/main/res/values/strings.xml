@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Staselovich_11_T1</string>
+    <string name="button">Created PDF</string>
+    <string name="editName">Name</string>
+    <string name="editPasword">Pasword</string>
+    <string name="editEmail">Email</string>
+
+</resources>
